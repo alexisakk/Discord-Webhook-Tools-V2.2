@@ -4,7 +4,7 @@
 - I made this tool to get more experience in coding and understand better. Feel free to use it and don't forget to give a star if you like it ⭐
 
 ## Download
-### Download the latest version: https://github.com/alexisakk/Discord-Webhook-Tools-V2.2/releases/tag/beta
+### Download the latest version: https://github.com/alexisakk/Discord-Webhook-Tools-V2.2/releases/tag/first
 ## How to download
 - **Go to the releases page and click on Discord.Webhook.Tools.V2.2.rar in order to download it;**
 - **After you download it you can either extract it or keep it as a rar.**
