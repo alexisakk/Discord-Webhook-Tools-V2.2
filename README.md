@@ -8,4 +8,8 @@
 - Change bot's profile (Add custom profile picture, name.);
 - That's all for now, more features will be added in the future.
 
+## Download
+Download beta release:
+https://github.com/alexisakk/Discord-Webhook-Tools-V2.2/releases/tag/beta
+
 Made by soul
