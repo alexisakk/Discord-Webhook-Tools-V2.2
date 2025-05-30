@@ -8,6 +8,7 @@
 ## How to download
 - **Go to the releases page and click on Discord.Webhook.Tools.V2.2.rar in order to download it;**
 - **After you download it you can either extract it or keep it as a rar.**
+![tuto](https://github.com/user-attachments/assets/c8f6cde0-1357-46c2-93d6-b05fb3df7af4)
 
 ## Features
 - Custom normal message spam/send;
